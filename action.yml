@@ -1,4 +1,4 @@
-name: "Slack webhook channel notifications"
+name: "Slack webhook channel notifications (fork from tiloio/slack-webhook-action)"
 author: "Ti/o"
 branding:
   icon: 'message-square'  
