@@ -15,5 +15,5 @@ inputs:
     description: "An optional mapping file to map GitHub Usernames and @Mentions to real Slack Mentions."
     required: false
 runs:
-  using: 'node19'
+  using: 'node16'
   main: 'index.js'
